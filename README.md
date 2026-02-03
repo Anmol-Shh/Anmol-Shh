@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Laravel (PHP)<br>👯 I’m looking to collaborate on C++, Java.<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning AI/ML
+🔭 I’m currently working on Laravel (PHP)<br>👯 I’m looking to collaborate on C++, Java, React, Angular, Next.Js.<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning AI/ML
 
 
 ## 🌐 Socials:
